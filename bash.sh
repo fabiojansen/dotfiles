@@ -33,7 +33,7 @@ function git_color ()
 
 PS1='\n[\u] \[\033[1;33m\]\W\a\[\033[0m\] \[$(git_color)\]$(__git_ps1 "(%s)\[\033[00m\]")\n\$ '
 
-source git-completion.sh
+source $HOME/.bash/git-completion.sh
 
 #Aliases
 alias ls="ls --color=auto"
