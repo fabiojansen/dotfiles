@@ -39,8 +39,4 @@ source $HOME/.bash/git-completion.sh
 alias ls="ls --color=auto"
 alias vh='vagrant halt'
 alias vs='vagrant suspend'
-alias projetos='cd /Volumes/Files/Projects/sandbox'
-
-#Ruby local
-
-#export PATH=/usr/local/bin:$PATH
+alias proj='cd /Volumes/Files/Projects/sandbox'
