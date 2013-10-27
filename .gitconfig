@@ -3,6 +3,6 @@
 	email = fabio@jansenlabs.com
 [alias]
 	co = checkout
-  cm = commit
-  st = status
+  	cm = commit
+  	st = status
 
