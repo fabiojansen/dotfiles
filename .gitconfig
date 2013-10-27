@@ -1,0 +1,8 @@
+[user]
+	name = Fábio Jansen
+	email = fabio@jansenlabs.com
+[alias]
+	co = checkout
+  cm = commit
+  st = status
+
