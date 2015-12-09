@@ -37,6 +37,3 @@ source $HOME/.bash/git-completion.sh
 
 #Aliases
 alias ls="ls --color=auto"
-alias vh='vagrant halt'
-alias vs='vagrant suspend'
-alias proj='cd /Volumes/Files/Projects/sandbox'
